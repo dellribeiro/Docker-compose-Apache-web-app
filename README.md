@@ -36,7 +36,7 @@ Antes de executar o projeto, certifique-se de ter os seguintes requisitos:
 - Abra um navegador da web e acesse a seguinte URL:
 
   ```
-  http://localhost:8080
+  http://localhost:80
   ```
 
 - Você verá o site da aplicação sendo exibido no navegador.
